@@ -1,0 +1,35 @@
+_repo: Rue-and-Roses_63947
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Courtney, W. L. (William Leonard)
+    alias: Courtney, William Leonard
+    birthdate: 1850
+    deathdate: 1928
+    gutenberg_agent_id: '7185'
+    url: http://www.gutenberg.org/2009/agents/7185
+    wikipedia: https://en.wikipedia.org/wiki/William_Leonard_Courtney
+creator:
+  author:
+    agent_name: Langer, Angela
+    birthdate: 1886
+    deathdate: 1916
+    gutenberg_agent_id: '51533'
+    url: http://www.gutenberg.org/2009/agents/51533
+description: ''
+gutenberg_issued: '2020-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63947'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Poor families -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- GITenberg
+title: Rue and Roses
+url: http://www.gutenberg.org/ebooks/63947
